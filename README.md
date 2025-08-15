@@ -15,8 +15,8 @@ The notebook demonstrates:
 
 ## 📚 Requirements
 Main dependencies:
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn (optional, for nicer plots)
+- numpy
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn (optional, for nicer plots)
