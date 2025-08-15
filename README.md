@@ -12,3 +12,11 @@ The notebook demonstrates:
 - Visualizing results.
 
 ---
+
+## 📚 Requirements
+Main dependencies:
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn (optional, for nicer plots)
